@@ -1,7 +1,6 @@
 {
   
   "sandboxes": ["vanilla", "new", "/examples/todomvc"],
-  // Node.js version to use for building the PR.
-  // Supported versions are '10' (10.23.0, default), '12' (12.20.0) and '14' (14.15.1).
+  
   "node": "14"
 }
