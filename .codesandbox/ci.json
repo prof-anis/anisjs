@@ -1,5 +1,7 @@
 {
-  
+    "installCommand": "install",
+  "buildCommand": "build",
+
   "sandboxes": ["new"],
   "node": "14"
 }
