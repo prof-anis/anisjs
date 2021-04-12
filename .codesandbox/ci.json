@@ -1,6 +1,7 @@
 {
   
   "sandboxes": ["vanilla", "new", "/examples/todomvc"],
-  
+  "installCommand": "install",
+  "buildCommand": "build",
   "node": "14"
 }
