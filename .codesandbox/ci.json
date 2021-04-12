@@ -1,7 +1,5 @@
 {
   
   "sandboxes": ["new"],
-  "installCommand": "install",
-  "buildCommand": "build",
   "node": "14"
 }
